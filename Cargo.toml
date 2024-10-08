@@ -41,7 +41,7 @@ edition = "2021"
 license = "Apache-2.0"
 readme = "README.md"
 repository = "https://github.com/tisonkun/morax/"
-version = "0.1.0-prerelease.0"
+version = "0.1.0-prerelease.1"
 
 [workspace.dependencies]
 backon = { version = "1.0", features = ["tokio-sleep"] }
